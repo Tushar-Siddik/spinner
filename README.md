@@ -1,3 +1,3 @@
 # spinner
 Simple spinner using HTML, CSS, JavaScript
-https://tushar-siddik.github.io/spinner/
+<br>https://tushar-siddik.github.io/spinner/
